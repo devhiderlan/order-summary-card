@@ -27,6 +27,3 @@ Veja o projeto aqui: [Acessar🌍]()
 
 Hiderlan Santana: [Linkedin](https://www.linkedin.com/in/hiderlan-santana/)
 
-
-
-# order-summary-card
