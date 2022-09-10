@@ -5,7 +5,7 @@
 ### Projeto de uma página estática de um plano de serviços de streaming de musicas.
 #
 
-![](./design/desktop-preview.jpg)
+![](./Assets/design/desktop-preview.jpg)
 
 #
 ## Construido com:
